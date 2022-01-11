@@ -39,4 +39,6 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 ### Links
 
-- [MySql][MySql.md]
+- [MySql](databases/mysql.md)
+- [MongoDb](databases/mongodb.md)
+- [PostgreSQL](databases/postgresql.md)
